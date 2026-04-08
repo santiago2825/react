@@ -20,3 +20,18 @@ li a{
   font-family: cursive;
   font-size: 30px;
 }
+section{
+  background-color: aqua;
+  border-radius: 4px;
+  border: 2px solid blue;
+}
+footer{
+  text-align: center;
+  background-color: aquamarine;
+  border: 2px solid greenyellow;
+}
+aside{
+  background-color: cornflowerblue;
+  border-radius: 4px;
+  border: 2px solid blueviolet;
+}
